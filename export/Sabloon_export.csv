@@ -1,0 +1,5 @@
+﻿email;bedrijfsnaam;aanhef;voornaam;tussenvoegsel;achternaam;telefoon;fax;geboortedatum;adres_aanhef;tav;adres;huisnummer;postcode;plaats;land;nieuwsbrief_groepen
+voorbeeld1@domeinnaam.nl;;Dhr.;Jan;;Jansen;088-1234567;088-1234567;24/12/1974;Dhr.;Jansen;Hoofdstraat;5;1234 AB;Amsterdam;Nederland;Wijnbericht,Speciale selectie
+voorbeeld2@domeinnaam.nl;Bedrijf 2;Mevr.;Jannie;de;Jong;088-1234567;088-1234567;13/3/1965;Mevr.;De Jong;Hoofdstraat;2;1234 AB;Amsterdam;Nederland;Wijnbericht
+voorbeeld3@domeinnaam.nl;Bedrijf 3;Dhr.;Freek;;Frederiksen;088-1234567;088-1234567;24/12/1974;Dhr.;Frederiksen;Dorpstraat;1;1234 AB;Amsterdam;Nederland;Wijnbericht,Speciale selectie,Klassewijnen - het neusje van de zalm
+voorbeeld4@domeinnaam.nl;;Mevr.;Christine;;Christiaans;088-1234567;088-1234567;13/3/1965;Mevr.;Christiaans;Dorpstraat;3;1234 AB;Amsterdam;Nederland;Wijnbericht
